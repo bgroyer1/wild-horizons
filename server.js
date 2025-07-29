@@ -5,5 +5,5 @@ console.log('Hello node!')
 //console.log(document)
 
 // type in node and press enter to start a new node environment
-// this allows us to REPL, read, evaluate, print, loop
+// this allows us to access the node REPL: read, evaluate, print, loop
 
